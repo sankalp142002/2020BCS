@@ -17,6 +17,11 @@ a:hover{
 .nav{
     display: inline-block;
     float: right;
+    padding: 5px;
+}
+.nav a{
+    margin: 5px;
+    padding: 5px;
 }
 #bottom{
     text-align: center;
