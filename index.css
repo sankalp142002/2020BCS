@@ -9,7 +9,7 @@ body{
 }
 #backimg{
     background-image: url('pexels-xaviershanley-2067178.jpg');
-    height: 320px;
+    height: 100%
     width: 100%;
     
 }
@@ -52,7 +52,7 @@ a:active{
 
 
 .search-container{
-    width: 420px;
+    width: 350px;
     display: block;
     margin: 70px auto;
   }
@@ -171,4 +171,9 @@ div a:hover{
         float: left;
         font-size: 80%;
     }
+    
+    .element a{
+        padding: 0px 0px;
+    }
+
 }
