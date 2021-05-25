@@ -2,7 +2,7 @@ html{
     filter: invert(0);
 }
 body{
-
+    font-family: 'Poppins', sans-serif, 'arial';
     margin: 0px;
     padding: 0px;
     background-color: burlywood;
@@ -97,7 +97,6 @@ a:active{
     position: fixed;
     bottom: 0;
     right: 0;
-    border: aquamarine;
 }
 .cardcont{
     display: flex;
